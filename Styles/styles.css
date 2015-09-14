@@ -1,0 +1,10 @@
+* {margin:0;padding:0}
+html {min-width:920px} 
+
+.span_2_of_2 {
+	background-color: red;
+}
+
+.span_1_of_2 {
+	background-color: green;
+}
